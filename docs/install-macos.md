@@ -48,7 +48,7 @@ A checksum proves the file you have is exactly the file published here.
 3. Compare the result with [`SHA256SUMS.txt`](../SHA256SUMS.txt) or the release page. They must match exactly:
 
    ```text
-   35876acbe070dfe2d09fb187b16bd6801e8f1ff22cb8d99c00d4dbf9e9576210  SecArch-0.1.0-universal.pkg
+   33e80bfd0958d80dade9c9bd1de1e72c790284a0cd393d7034dfb37692f65593  SecArch-0.1.0-universal.pkg
    ```
 
 If the values differ, delete the file and download it again. If they still differ, do not install it and open an issue.

@@ -55,7 +55,7 @@ A checksum proves the file you have is exactly the file published here.
 3. Compare the long value under **Hash** with the one for this file in [`SHA256SUMS.txt`](../SHA256SUMS.txt) or on the release page. They must match exactly:
 
    ```text
-   0fc642a6f089881b46997c441e3e7775e3e6c11a40907cce38a69920114ef7f4  SecArch-Setup-0.1.0-x64.exe
+   44398177bbc4fe907f7042b8bf4f3e5c935ff57022ed3edf234cf3edaa460494  SecArch-Setup-0.1.0-x64.exe
    ```
 
 If the values differ, delete the file and download it again. If they still differ, do not install it and open an issue.
