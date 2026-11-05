@@ -4,6 +4,8 @@
 
 Import a design or draw it, get it reviewed against the standards you choose, model the threats and produce the report. SecArch runs on your computer. There is no sign in, no account and no server, and your designs stay in files on your device.
 
+SecArch is a free security architecture review tool and threat modelling tool (threat modeling, in US spelling). It imports draw.io and Visio diagrams and architecture documents, checks the design against 17 standards and frameworks, generates STRIDE, PASTA or OCTAVE threats, and writes PDF and Excel reports. There is also a [web version at secarch.live](https://secarch.live) that needs a free account.
+
 > This repository contains the **installers and documentation only**. The source code is not published here.
 
 ![SecArch Desktop](docs/images/01-home.png)
